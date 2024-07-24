@@ -1,0 +1,5 @@
+torch 
+torchvision 
+jupyter==1.0.0
+matplotlib==3.9.1
+python_dotenv==1.0.1
